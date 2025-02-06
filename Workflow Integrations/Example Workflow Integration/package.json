@@ -1,0 +1,12 @@
+{
+  "name": "test-workflow",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Asher Roland",
+  "license": "MIT",
+  "description": "Test Plugin"
+}
